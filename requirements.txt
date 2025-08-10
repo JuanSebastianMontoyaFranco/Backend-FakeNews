@@ -1,0 +1,7 @@
+Django==5.2.5
+joblib
+pandas
+numpy
+scikit-learn
+gunicorn
+django-cors-headers
